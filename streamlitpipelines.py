@@ -99,7 +99,7 @@ peso = st.sidebar.number_input("Peso (kg)", min_value=0.0, value=peso)
 talla = st.sidebar.number_input("Talla (m)", min_value=0.0, value=talla)
 
 frutas = st.sidebar.number_input(
-    "Porciones de frutas semanal",
+    "Porciones de frutas y verduras semanal",
     min_value=0,
     value=frutas
 )
